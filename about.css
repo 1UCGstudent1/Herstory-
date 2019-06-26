@@ -1,0 +1,54 @@
+body {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  background-color: #e59ab9;
+}
+.paragraph{
+  text-align:left;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+h1{
+  text-align:left;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+h2{
+  text-align:left;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+#caption{
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 16px;
+  text-align:center;
+}
+
+#bridget_headshot{
+  width:363px;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span{
+  color: #D63775;
+}
+.herstory-container {
+  background-color: white;
+  padding: 20px;
+}
+.page-footer {
+  padding: 50px;
+  background: black;
+  margin-top: 20px;
+  margin-bottom: -15px;
+  color: white;
+}
+.herstory-nav {
+  background-color: black;
+}
+nav img {
+  max-width: 75px;
+  margin-top: -8px;
+  margin-bottom: -8px;
+}
